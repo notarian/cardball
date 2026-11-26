@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# raw Retrosheet downloads are large; keep them out of the repo
+*.csv
+csvdownloads/
